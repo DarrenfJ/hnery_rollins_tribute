@@ -1,0 +1,64 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* .test {
+  border: 2px solid black; */
+}
+a:active,
+a:visited,
+a:focus {
+  text-decoration: none;
+}
+
+a:link {
+  color: #669999;
+}
+/* unvisited link is light blue patina */
+
+a:visited {
+  color: #003366;
+}
+/* visited link is Midnight Blue */
+
+a:hover {
+  color: #2F4F4F;
+}
+/* mouse over link is darkslate grey */
+
+a:active {
+  color: #CCCC99;
+}
+/* selected link is pineglade yellowgreen*/
+
+.btn:link {
+  color: #000;
+}
+
+.robot {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+}
+
+#image {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.centered {
+  margin: 0 auto;
+  width: 65%;
+}
+
+.quote {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+blockquote {
+  text-align: left;
+}
